@@ -1,0 +1,7 @@
+*.json
+*.hdf5
+*.txt
+*.tpl
+*.pkl
+*.pyc
+*.h5
